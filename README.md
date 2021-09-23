@@ -7,15 +7,23 @@ Independent Variables : country	year sex	age	population
 Dependent Variable : suicides_no  
 
 ## Table of Contents
-Importing Libraries  
-Importing Dataset  
-Data Visualization    
-Finding Suicide Trends according to Year  
-Finding Suicide Trends according to Age Groups  
-Encoding Categorical Data  
-splitting the dataset into training and testing sets  
-Models to Predict Suicides  
-Comparing the Results   
+1)Importing Libraries  
+2)Importing Dataset  
+3)Data Visualization    
+4)Finding Suicide Trends according to Year  
+5)Finding Suicide Trends according to Age Groups  
+6)Encoding Categorical Data  
+7)splitting the dataset into training and testing sets  
+8)Models to Predict Suicides  
+9)Comparing the Results  
+
+## Technologies Used
+Python language
+## Installations
+Numpy  
+Pandas  
+Matplotlib  
+Seaborn  
 
 ## Conclusion:
 Among all the models Random Forest Model is giving good results with high R2 score and low RMSE score. Hence we can choose Random Forest Model for predictions.
