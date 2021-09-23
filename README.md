@@ -17,14 +17,6 @@ Dependent Variable : suicides_no
 8)Models to Predict Suicides  
 9)Comparing the Results  
 
-## Technologies Used
-Python language
-## Installations
-Numpy  
-Pandas  
-Matplotlib  
-Seaborn  
-
 ## Conclusion:
 Among all the models Random Forest Model is giving good results with high R2 score and low RMSE score. Hence we can choose Random Forest Model for predictions.
 
