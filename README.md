@@ -7,7 +7,7 @@ Independent Variables : country	year sex	age	population
 Dependent Variable : suicides_no  
 
 ## Table of Contents
-*Importing Libraries  
+Importing Libraries  
 Importing Dataset  
 Data Visualization    
 Finding Suicide Trends according to Year  
