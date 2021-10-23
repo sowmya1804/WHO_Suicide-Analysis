@@ -6,7 +6,7 @@ Content - Basic aggregate numbers covering 1979-2016, by country, year, age grou
 Independent Variables : country	year sex	age	population  
 Dependent Variable : suicides_no  
 
-## Table of Contents
+## Steps Involved
 1) Importing Libraries  
 2) Importing Dataset  
 3) Data Visualization    
